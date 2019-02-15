@@ -78,5 +78,5 @@ Please check file opts.py
 
 # Example result:
 ![](https://github.com/ccny-ros-pkg/pytorch_Concrete_Inspection/blob/master/image_and_results/output/175.png)
-![](https://github.com/ccny-ros-pkg/pytorch_Concrete_Inspection/blob/master/image_and_results/output/329.png)
+![](https://github.com/ccny-ros-pkg/pytorch_Concrete_Inspection/blob/master/image_and_results/output/394.png)
 ![](https://github.com/ccny-ros-pkg/pytorch_Concrete_Inspection/blob/master/image_and_results/output/596.png)
